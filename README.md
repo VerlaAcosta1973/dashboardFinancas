@@ -56,7 +56,7 @@ A solução foi desenhada para responder a perguntas estratégicas da diretoria 
 
 ## 🖼️ Tela do Projeto
 
-![Dashboard de Finanças](./images/dashboard_financas.png)
+![dashboardFinancas](./images/dashboard_financas.png)
 
 ---
 
